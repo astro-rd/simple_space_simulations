@@ -5,6 +5,9 @@ These are just simple astrophyhysics/ astronomy-type simulations I created to pr
 
 I will add dates on when the program was added/reworked so you know how recent the program is. 
 
+Everything is free to use! 
+
+
 
 # ready simulations 
 - Inverse Square Law (6/28/2026)
