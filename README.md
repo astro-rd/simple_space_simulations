@@ -7,7 +7,7 @@ I will add dates on when the program was added/reworked so you know how recent t
 
 
 # ready simulations 
-- Inverse Square Law 6/28/2026
+- Inverse Square Law (6/28/2026)
 
 # in progress 
 
