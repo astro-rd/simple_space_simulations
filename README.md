@@ -6,6 +6,9 @@ These are just simple astrophyhysics/ astronomy-type simulations I created to pr
 I will add dates on when the program was added/reworked so you know how recent the program is. 
 
 Everything is free to use! 
+Note: I used Google's Gemini to help find and explain errors in the code. 
+
+Copy and paste the code into a program like Virtual Studio Code.
 
 
 
